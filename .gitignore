@@ -1,0 +1,8 @@
+secrets.py
+api_keys.py
+
+.env_prod
+.venv/
+.hf_offload/
+__pycache__/
+*.py[cod]
